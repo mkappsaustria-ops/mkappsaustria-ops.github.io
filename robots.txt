@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://mkappsaustria-ops.github.io/sitemap.xml
